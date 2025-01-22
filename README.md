@@ -9,13 +9,14 @@
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Tipo de ataque: ``` 1) Social-Engineering Attacks ```
+- Vetor de ataque: ``` 2) Web Site Attack Vectors ```
+- Método de ataque: ```3) Credential Harvester Attack Method ```
+- Método de ataque: ``` 2) Site Cloner ```
+- URL para clone: ``` http://www.facebook.com ```
 
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+### Observação: Embora os dados de login (usuário e senha) tenham sido capturados, a informação de senha vem criptografada por conta de um novo script adicionado na página pelo Facebook. A solução poderia ser reverter a criptografia ou desabilitar o script em questão, mas ainda não foi possível realizar ambos os testes.
