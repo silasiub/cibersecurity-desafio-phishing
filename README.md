@@ -16,7 +16,8 @@
 - URL para clone: ``` http://www.facebook.com ```
 
 ### Resutados
+![Alt text](./login-fb.png "Página clone de login do Facebook")
+![Alt text](./login-fb-data-log.png "Dados coletados na página clone de login do Facebook")
 
-![Alt text](./passwd.png "Optional title")
-
-### Observação: Embora os dados de login (usuário e senha) tenham sido capturados, a informação de senha vem criptografada por conta de um novo script adicionado na página pelo Facebook. A solução poderia ser reverter a criptografia ou desabilitar o script em questão, mas ainda não foi possível realizar ambos os testes.
+### Observação: 
+Embora os dados de login (usuário e senha) tenham sido capturados, a informação de senha vem criptografada por conta de um novo script adicionado na página pelo Facebook. A solução poderia ser reverter a criptografia ou desabilitar o script em questão, mas ainda não foi possível realizar ambos os testes.
